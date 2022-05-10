@@ -1,0 +1,27 @@
+using System;
+					
+public class Program {
+		class Persona {
+			private int edad;
+			
+			public void method(){
+				Console.WriteLine("hola soy un metodo");
+			}
+		}
+		public static void Main(){
+			Persona persona = new Persona();
+			persona.method();
+	}
+}
+
+
+	class Base{
+		public void method(){
+			Console.WriteLine("metodo de clase base");
+			
+		}	
+	}
+	class Extendida : Base{
+		public void method2(){
+			Console.WriteLine("Metodo de clase extendida");}
+	}

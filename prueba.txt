@@ -1,9 +1,5 @@
 using System;
-					
-
-
-
-
+				
 public class Program {
 		
 		class Cliente
@@ -26,10 +22,13 @@ public class Program {
 		persona.method();
 	}
 
+
+
 	class Administrador
 	{
-		private int edad;
+		private sting correo;
 		private string nombre;
+		private string contraseña;
 
 
 		public void method()
@@ -43,10 +42,14 @@ public class Program {
 		persona.method();
 	}
 
+
+
+
 	class Empleado
 	{
-		private int edad;
+		private sting correo;
 		private string nombre;
+		private string contraseña;
 
 
 		public void method()
@@ -64,7 +67,13 @@ public class Program {
 		
 		
 		class Cliente {
-			private int edad;
+			private int rut;
+			private string nombre;
+			private int id_cliente;
+			private string correo;
+			private string contraseña;
+			private int numero_celular;
+			
 			
 			public void method(){
 				Console.WriteLine("hola soy un metodo");

@@ -1,0 +1,15 @@
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\bin\Debug\net6.0\PaginaTiendaJuego.exe
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\bin\Debug\net6.0\PaginaTiendaJuego.deps.json
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\bin\Debug\net6.0\PaginaTiendaJuego.runtimeconfig.json
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\bin\Debug\net6.0\PaginaTiendaJuego.dll
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\bin\Debug\net6.0\PaginaTiendaJuego.pdb
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\obj\Debug\net6.0\PaginaTiendaJuego.csproj.AssemblyReference.cache
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\obj\Debug\net6.0\PaginaTiendaJuego.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\obj\Debug\net6.0\PaginaTiendaJuego.AssemblyInfoInputs.cache
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\obj\Debug\net6.0\PaginaTiendaJuego.AssemblyInfo.cs
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\obj\Debug\net6.0\PaginaTiendaJuego.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\obj\Debug\net6.0\PaginaTiendaJuego.dll
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\obj\Debug\net6.0\refint\PaginaTiendaJuego.dll
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\obj\Debug\net6.0\PaginaTiendaJuego.pdb
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\obj\Debug\net6.0\PaginaTiendaJuego.genruntimeconfig.cache
+D:\Aplicaciones\Proyectos Java studio\PaginaTiendaJuego\obj\Debug\net6.0\ref\PaginaTiendaJuego.dll
